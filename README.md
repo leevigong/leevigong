@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20👋&animation=twinkling&fontSize=35&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4A8DFF,100:FFE87B&text=Welcome%20👋&animation=twinkling&fontColor=FFFFFF&fontSize=35&height=250)
+
 
 ### 🚀 Tech Stack 🚀
 <div width="100%">
@@ -22,9 +23,8 @@
   <img src="https://img.shields.io/badge/amazon-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </div>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true">
-
+#### ⚡Stats⚡
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true&theme=radical)
 
 
 <!--
@@ -34,6 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true">
 **leevigong/leevigong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
