@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20👋&animation=twinkling&fontSize=35&height=250)
+
 ### 🚀 Tech Stack 🚀
 <div width="100%">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,12 +23,17 @@
 </div>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true">
 
 
 
 <!--
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20👋&fontSize=35&fontAlignY=40&height=250&fontColor=000000)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true&theme=radical)
+
 **leevigong/leevigong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
