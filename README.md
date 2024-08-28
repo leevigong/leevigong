@@ -12,15 +12,17 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <br>
+  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
  
 ### 📚 Developing Stack 📚
 <div width="100%">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/amazon-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </div>
 
 #### ⚡Stats⚡
@@ -28,6 +30,7 @@
 
 
 <!--
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20👋&fontSize=35&fontAlignY=40&height=250&fontColor=000000)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact">
 
