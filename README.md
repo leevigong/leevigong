@@ -27,9 +27,10 @@
 
 #### ⚡Stats⚡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact)
 
 <!--
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20👋&fontSize=35&fontAlignY=40&height=250&fontColor=000000)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact">
