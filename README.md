@@ -26,8 +26,8 @@
 </div>
 
 #### ⚡Stats⚡
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leevigong)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true&count_private=true)
