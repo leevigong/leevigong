@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4A8DFF,100:FFE87B&text=Welcome%20👋&animation=twinkling&fontColor=FFFFFF&fontSize=35&height=250)
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4A8DFF,100:FFE87B&text=Welcome%20👋&animation=twinkling&fontColor=FFFFFF&fontSize=35&height=250)
 
 ### 🚀 Tech Stack 🚀
 <div width="100%">
