@@ -1,7 +1,6 @@
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg"/>
 </a>
-
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4A8DFF,100:FFE87B&text=Welcome%20👋&animation=twinkling&fontColor=FFFFFF&fontSize=35&height=250)
 
@@ -29,30 +28,6 @@
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </div>
 
-#### ⚡Stats⚡
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leevigong)
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true&count_private=true)
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome%20👋&fontSize=35&fontAlignY=40&height=250&fontColor=000000)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api?username=leevigong&show_icons=true">
-**leevigong/leevigong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡Stats⚡
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leevigong&layout=compact&theme=apprentice)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leevigong&theme=apprentice)
